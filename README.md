@@ -1,7 +1,7 @@
-# TOP-FCC
-The Odin Project Free Code Camp Projects
+# TOP-FCC-RWD
+# The Odin Project Free Code Camp Responsive Web Design Projects: Tribute Page
 
-Tribute Page Requirements
+## Requirements
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
